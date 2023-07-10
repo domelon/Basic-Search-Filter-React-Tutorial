@@ -1,2 +1,2 @@
-# Basic-Search-Filter-React-Tutorial
+# basic-search-bar-for-react
 Created with CodeSandbox
